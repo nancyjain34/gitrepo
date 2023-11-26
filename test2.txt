@@ -4,4 +4,8 @@ changes i made in local from branchtest
 
 agian changed in remote master branch
 
+<<<<<<< Updated upstream
 checking stash command
+=======
+my local changes
+>>>>>>> Stashed changes
